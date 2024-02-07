@@ -6,8 +6,6 @@ Designer, Web Developer and Photographer
 
 I started learning how to code when I was in 8th grade. I started by learning Python and HTML, but now I'm interested in backend development.
 
-<a href="https://discord.com/users/445430132933394432"><img align="left" style="margin-right: 300px;" src="https://lanyard-profile-readme.vercel.app/api/445430132933394432?bg=11111b&borderRadius=20px&idleMessage=Probably%20doing%20something%20else..."/></a>
-
 
 * 🌍  I'm based in Lumajang, East Java
 * ✉️  You can contact me at [akbardafandi@gmail.com](mailto:akbardafandi@gmail.com)
@@ -16,8 +14,6 @@ I started learning how to code when I was in 8th grade. I started by learning Py
 * 🧠  I'm learning Laravel
 
 
-
-<br/><br/>
 
 ### Skills
 
