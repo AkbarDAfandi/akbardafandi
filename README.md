@@ -13,7 +13,7 @@ I started learning how to code when I was in 8th grade. I started by learning Py
 * ✉️  You can contact me at [akbardafandi@gmail.com](mailto:akbardafandi@gmail.com)
 * 🖥️  See my portfolio at [akbarafandi.my.id](http://akbarafandi.my.id/)
 * 🚀  I'm currently working on [Jurnalistik Smakensa](http://github.com/NCnight/Jurnalistik_Smakensa)
-* 🧠  I'm learning Laravel, and Flutter
+* 🧠  I'm learning Laravel
 
 
 
