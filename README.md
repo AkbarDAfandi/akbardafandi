@@ -10,7 +10,7 @@ I started learning how to code when I was in 8th grade. I started by learning Py
 * 🌍  I'm based in Lumajang, East Java
 * ✉️  You can contact me at [akbardafandi@gmail.com](mailto:akbardafandi@gmail.com)
 * 🖥️  See my portfolio at [akbarafandi.my.id](http://akbarafandi.my.id/)
-* 🚀  I'm currently working on [Jurnalistik Smakensa](http://github.com/NCnight/Jurnalistik_Smakensa)
+* 🚀  I'm currently working on [Absen-to-matic](https://github.com/AkbarDAfandi/Absen-to-matic)
 * 🧠  I'm learning Laravel
 
 
