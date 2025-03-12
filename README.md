@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Lib-Track<br>🌱 I’m currently learning Laravel 11 and Flutter<br>💬 Ask me about web dev, linux and anime<br>
+🔭 I’m currently working on Hadirr! <br>🌱 I’m currently learning C# and Kotlin in preperation for LKS 2025 <br>💬 Ask me about web dev, linux and anime<br>
 
 
 ## 🌐 Socials:
