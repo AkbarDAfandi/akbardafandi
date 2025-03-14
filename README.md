@@ -18,4 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AkbarDAfandi&icon=1&color=13)](https://visitcount.itsvg.in)
 
+
+![](https://komarev.com/ghpvc/?AkbarDAfandi)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
