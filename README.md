@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbardafandi&label=Profile%20views&color=0e75b6&style=flat" alt="akbardafandi" /> </p>
 
+<img align="right" height="180" width="170" src="https://media.giphy.com/media/jUckyQVjuHNx9vXUtv/giphy.gif?cid=790b76119g6y2c5tv8a7yfw12cxjdm04gaxdtflmvps76rek&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
 - 🔭 I’m currently working on [Hadirr - An attendance web app](https://github.com/AkbarDAfandi/Hadirr)
 
 - 🌱 I’m currently learning **C# and Kotlin in preparation for LKS 2025**
