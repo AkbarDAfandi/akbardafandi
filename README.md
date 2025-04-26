@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Hadirr - An attendance web app](https://github.com/AkbarDAfandi/Hadirr)
 
-- 🌱 I’m currently learning **C# and Kotlin in preparation for LKS 2025**
+- 🌱 I’m currently learning deeper about php and Laravel
 
 - 💬 Ask me about **web dev, linux, self hosting, and anime**
 
