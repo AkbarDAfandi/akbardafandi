@@ -5,7 +5,7 @@
 
 <img align="right" height="180" width="170" src="https://media.giphy.com/media/jUckyQVjuHNx9vXUtv/giphy.gif?cid=790b76119g6y2c5tv8a7yfw12cxjdm04gaxdtflmvps76rek&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-- 🔭 I’m currently working on [Hadirr - An attendance web app](https://github.com/AkbarDAfandi/Hadirr)
+- 🔭 I’m currently working on a special project with [RizzTech](https://github.com/RizzTech-Official)
 
 - 🌱 I’m currently learning deeper about php and Laravel
 
