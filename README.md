@@ -5,18 +5,17 @@ I am a final-year Software Engineering (RPL) student from SMK Negeri 1 Lumajang.
 
 ---
 
-### 🏆 Featured Certification
+### 🏆 Key Competency: English Proficiency
 **TOEIC® Listening & Reading Test**
 * **Score:** **985 / 990** (Gold Certificate - Top 1% Global)
+* **Award** Top **5** Best Score in West Indonesia (ITC Award)
 * *Proficient in Technical English & Business Communication*
-
-*(Note: This is a preview. Verified digital report available upon request.)*
 
 ---
 
 ### 🛠 Tech Stack
 * **Languages:** PHP, JavaScript, HTML/CSS, SQL
-* **Tools:** Laravel, Bootstrap, Git/GitHub, MySQL, Supabase
+* **Tools:** Laravel, Bootstrap, Git/GitHub, MySQL, Supabase, Linux OS, Docker
 * **Soft Skills:** International Communication, Technical Writing
 
 ---
