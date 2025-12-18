@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Muhammad Akbar Dwi Afandi - Backend Developer</title>
-    <meta name="description" content="Portfolio of Muhammad Akbar Dwi Afandi, Backend Developer and Vocational Student at SMK Negeri 1 Lumajang.">
+    <title>Muhammad Akbar Dwi Afandi - Backend Developer Portfolio</title>
+    <meta name="description" content="Portfolio of Muhammad Akbar Dwi Afandi, a Vocational Backend Developer specializing in Laravel, PHP, and Flutter. Student at SMKN 1 Lumajang.">
     
     <script type="application/ld+json">
     {
@@ -12,24 +12,25 @@
       "@type": "Person",
       "name": "Muhammad Akbar Dwi Afandi",
       "jobTitle": "Backend Developer",
+      "url": "https://execute-re.github.io", 
+      "image": "https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID",
       "affiliation": [
-        {
-          "@type": "Organization",
-          "name": "SMK Negeri 1 Lumajang Theater Club",
-          "roleName": "Chairman (2024-2025)"
-        },
         {
           "@type": "Organization",
           "name": "SMK Negeri 1 Lumajang Journalism Club",
           "roleName": "Vice Chairman (2024-2025)"
+        },
+        {
+          "@type": "Organization",
+          "name": "SMK Negeri 1 Lumajang Theater Club",
+          "roleName": "Chairman (2024-2025)"
         }
       ],
       "alumniOf": {
         "@type": "EducationalOrganization",
         "name": "SMK Negeri 1 Lumajang"
       },
-      "knowsAbout": ["Laravel", "PHP", "CodeIgniter", "IoT", "ESP32"],
-      "url": "https://yourusername.github.io",
+      "knowsAbout": ["Laravel", "PHP", "Flutter", "Supabase", "IoT", "MySQL"],
       "sameAs": [
         "https://www.linkedin.com/in/YOUR_LINKEDIN_ID",
         "https://github.com/YOUR_GITHUB_ID",
@@ -37,27 +38,168 @@
       ]
     }
     </script>
+
     <style>
-        body { font-family: monospace; max-width: 800px; margin: 40px auto; padding: 20px; line-height: 1.6; background: #f4f4f4; }
-        .card { background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-        h1 { color: #333; border-bottom: 2px solid #333; padding-bottom: 10px; }
+        :root {
+            --primary: #2563eb;
+            --dark: #1e293b;
+            --light: #f8fafc;
+            --text: #334155;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--light);
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+        header {
+            text-align: center;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid #e2e8f0;
+            margin-bottom: 2rem;
+        }
+        h1 { color: var(--dark); margin-bottom: 0.5rem; font-size: 2.2rem; }
+        .subtitle { color: var(--primary); font-weight: 600; font-size: 1.1rem; }
+        
+        section { margin-bottom: 2.5rem; }
+        h2 { color: var(--dark); border-left: 4px solid var(--primary); padding-left: 10px; }
+        
+        .card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            margin-bottom: 1rem;
+            transition: transform 0.2s;
+        }
+        .card:hover { transform: translateY(-2px); }
+        .card h3 { margin-top: 0; color: var(--dark); }
+        .card a { text-decoration: none; color: var(--primary); font-weight: bold; }
+        
+        .badge {
+            display: inline-block;
+            background: #e0f2fe;
+            color: #0369a1;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            margin-right: 5px;
+            font-weight: 600;
+        }
+        .meta { font-size: 0.9rem; color: #64748b; font-style: italic; }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        .stat-box { background: var(--dark); color: white; padding: 1rem; border-radius: 8px; text-align: center; }
+        .stat-number { font-size: 1.5rem; font-weight: bold; color: #60a5fa; }
+        
+        footer { text-align: center; margin-top: 4rem; color: #94a3b8; font-size: 0.9rem; }
     </style>
 </head>
 <body>
-    <div class="card">
+
+<div class="container">
+    <header>
         <h1>Muhammad Akbar Dwi Afandi</h1>
-        <p><strong>Vocational Software Engineer & Student Leader</strong></p>
-        <p>
-            Backend specialist (Laravel/PHP) and final-year student at <strong>SMK Negeri 1 Lumajang</strong>.
-            Former <strong>Chairman of the Theater Club</strong> (2024-2025) and <strong>Vice Chairman of Journalism</strong>.
-            Achieved a TOEIC score of <strong>985</strong>.
-        </p>
-        <hr>
-        <h3>Links</h3>
-        <ul>
-            <li><a href="https://github.com/AkbarDAfandi">GitHub Projects</a></li>
-            <li><a href="https://www.linkedin.com/in/akbar-afandi/">LinkedIn</a></li>
-        </ul>
+        <div class="subtitle">Backend Engineer | Vocational Student | Leadership Enthusiast</div>
+        <p>📍 Lumajang, East Java, Indonesia</p>
+    </header>
+
+    <div class="stats-grid">
+        <div class="stat-box">
+            <div class="stat-number">985</div>
+            <div>TOEIC Score</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-number">2026</div>
+            <div>Graduation Year</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-number">3+</div>
+            <div>Years Coding</div>
+        </div>
     </div>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            I am a final-year student at <strong>SMK Negeri 1 Lumajang</strong> specializing in Software Engineering (RPL). 
+            Currently interning at a software house in Jember, I focus on building scalable backend systems using <strong>Laravel</strong> and <strong>PHP</strong>.
+        </p>
+        <p>
+            Beyond code, I have served as the <strong>Chairman of the Theater Club</strong> and <strong>Vice Chairman of the Journalism Club</strong> (2024-2025), 
+            honing my leadership and communication skills.
+        </p>
+    </section>
+
+    <section>
+        <h2>Featured Projects</h2>
+
+        <div class="card">
+            <h3>📖 E-Yearbook SMKN 1 Lumajang</h3>
+            <div class="meta">Budget Optimization & Digital Archiving</div>
+            <p>A digital platform commissioned by the school to replace printed yearbooks, reducing costs and increasing accessibility for 2,000+ students.</p>
+            <div>
+                <span class="badge">Laravel</span>
+                <span class="badge">PHP</span>
+                <span class="badge">MySQL</span>
+            </div>
+            <br>
+            <a href="https://github.com/YOUR_GITHUB_ID/YOUR_YEARBOOK_REPO">View Source Code →</a>
+        </div>
+
+        <div class="card">
+            <h3>☁️ Cloudy Note</h3>
+            <div class="meta">Cross-Platform Mobile App</div>
+            <p>Secure note-taking application featuring real-time synchronization, email verification, and Row Level Security (RLS).</p>
+            <div>
+                <span class="badge">Flutter</span>
+                <span class="badge">Supabase</span>
+                <span class="badge">Dart</span>
+                <span class="badge">MVVM</span>
+            </div>
+            <br>
+            <a href="https://github.com/YOUR_GITHUB_ID/YOUR_CLOUDY_REPO">View Source Code →</a>
+        </div>
+
+        <div class="card">
+            <h3>📚 lib-Track</h3>
+            <div class="meta">Library Management System</div>
+            <p>A pure native PHP application demonstrating core understanding of CRUD operations, session management, and relational database logic.</p>
+            <div>
+                <span class="badge">Native PHP</span>
+                <span class="badge">No Framework</span>
+                <span class="badge">Inventory System</span>
+            </div>
+            <br>
+            <a href="https://github.com/YOUR_GITHUB_ID/YOUR_LIBTRACK_REPO">View Source Code →</a>
+        </div>
+    </section>
+
+    <section>
+        <h2>Connect</h2>
+        <ul>
+            <li><strong>GitHub:</strong> <a href="https://github.com/AkbarDAfandi">github.com/AkbarDAfandi</a></li>
+            <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/akbar-afandi/">linkedin.com/in/akbar-afandi</a></li>
+            <li><strong>Instagram:</strong> <a href="https://instagram.com/rexec.png">@rexec.png/a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Muhammad Akbar Dwi Afandi. Built to trigger Google AI Entities.</p>
+    </footer>
+</div>
+
 </body>
 </html>
