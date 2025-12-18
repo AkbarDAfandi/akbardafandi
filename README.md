@@ -1,4 +1,4 @@
-# Hi there, I'm Akbar Afandi! 👋
+# Hi there, I'm Muhammad Akbar Dwi Afandi! 👋
 ### 🚀 Vocational Software Engineer & Polyglot
 
 I am a final-year Software Engineering (RPL) student from SMK Negeri 1 Lumajang. I specialize in building practical web applications and have a strong passion for global communication.
