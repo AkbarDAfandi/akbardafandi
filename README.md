@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Akbar Dwi Afandi! 👋
-### 🚀 Vocational Software Engineer & Polyglot
+### 🚀 Software Engineer, Information Technology Undergraduate, a Bilingual
 
-I am a final-year Software Engineering (RPL) student from SMK Negeri 1 Lumajang. I specialize in building practical web applications and have a strong passion for global communication.
+Information Technology undergraduate at Universitas Jember. Software engineer focused on PHP and Laravel backend development, expanding into the JavaScript ecosystem with Astro. Engineering pragmatic applications to resolve concrete accessibility and workflow constraints.
 
 ---
 
